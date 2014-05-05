@@ -1,0 +1,10 @@
+it:
+  HomePage:
+    EVENTS: Eventi
+    NOEVENTS: 'Non ci sono eventi'
+  ProductPageHolder:
+    ALLPRODUCTS: 'Catalogo Prodotti'
+  RestaurantPage:
+    MENU: Menu
+  Footer:
+    EMAIL: 'Email address: %s'

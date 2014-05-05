@@ -1,0 +1,15 @@
+.TypeNotSet a .jstree-pageicon{
+	background: url(../images/icons/page_error.png) no-repeat top left;
+}
+/* Dry Products */
+.TypeSet.type-1 a .jstree-pageicon{
+	background: url(../images/icons/tag_yellow.png) no-repeat top left;
+}
+/* Fresh Products */
+.TypeSet.type-2 a .jstree-pageicon{
+	background: url(../images/icons/tag_red.png) no-repeat top left;
+}
+/* Cupboard Essentials */
+.TypeSet.type-3 a .jstree-pageicon{
+	background: url(../images/icons/tag_green.png) no-repeat top left;
+}

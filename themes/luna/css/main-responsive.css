@@ -1,0 +1,36 @@
+@media (max-width: 1200px) {
+  #events a.img, #events a.img:hover{
+    height: 100px;
+  }
+  #events .media-body{
+    height: 80px;
+
+  }
+  #events .event-detail {
+    height: 0;
+  }
+}
+@media (max-width: 979px) {
+  #events a.img{
+  	display: none;
+  }
+  #events a.img, #events a.img:hover{
+    height: 75px;
+  }
+  #events .media-body{
+    height: 55px;
+
+  }
+  #events .event-detail {
+    height: 0;
+  }
+  .navbar-extended{
+    /*display: none;*/
+    height: 40px;
+  }
+}
+@media (max-width: 768px){
+  .navbar-extended{
+    display: none;
+  }
+}

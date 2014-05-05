@@ -1,0 +1,10 @@
+fr:
+  HomePage:
+    EVENTS: Evènements
+    NOEVENTS: "Il n'y a pas d'évènements"
+  ProductPageHolder:
+    ALLPRODUCTS: 'Tous les produits'
+  RestaurantPage:
+    MENU: Menu
+  Footer:
+    EMAIL: 'Adresse email : %s'

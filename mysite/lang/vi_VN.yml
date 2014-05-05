@@ -1,0 +1,10 @@
+vi_VN:
+  HomePage:
+    EVENTS: 'Sự kiện'
+    NOEVENTS: 'Không có sự kiện'
+  ProductPageHolder:
+    ALLPRODUCTS: 'Tất cả các sản phẩm'
+  RestaurantPage:
+    MENU: Thực đơn
+  Footer:
+    EMAIL: 'Địa chỉ mail: %s'
